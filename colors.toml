@@ -1,9 +1,10 @@
-# Superlight: Flexoki Light palette (https://stephango.com/flexoki, MIT) paired with the Superlight wallpaper.
+# Superlight: Flexoki Light palette (https://stephango.com/flexoki, MIT), text colors deepened to
+# Flexoki's 600 tones (and slightly beyond) so every color reaches WCAG AA 4.5:1 on the background.
 mode = "light"
 
 accent = "#205EA6"
 selection = "#CECDC3"
-muted = "#B7B5AC"
+muted = "#6F6E69"
 
 background = "#FFFCF0"
 dark_background = "#f2efe4"
@@ -11,22 +12,22 @@ darker_background = "#e5e2d8"
 lighter_background = "#E6E4D9"
 
 foreground = "#100F0F"
-dark_foreground = "#878580"
+dark_foreground = "#6F6E69"
 light_foreground = "#403E3C"
 bright_foreground = "#100F0F"
 
-red = "#D14D41"
-yellow = "#D0A215"
-orange = "#d0772b"
-green = "#879A39"
-cyan = "#3AA99F"
+red = "#AF3029"
+yellow = "#916E01"
+orange = "#BC5215"
+green = "#627B0B"
+cyan = "#237F77"
 blue = "#205EA6"
-magenta = "#CE5D97"
+magenta = "#A02F6F"
 brown = "#683b15"
 
-bright_red = "#D14D41"
-bright_yellow = "#D0A215"
-bright_green = "#879A39"
-bright_cyan = "#3AA99F"
-bright_blue = "#4385BE"
-bright_magenta = "#CE5D97"
+bright_red = "#CE4135"
+bright_yellow = "#8D6E0E"
+bright_green = "#6A782D"
+bright_cyan = "#2C7F78"
+bright_blue = "#3B77AA"
+bright_magenta = "#C54084"

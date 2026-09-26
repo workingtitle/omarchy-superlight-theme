@@ -7,7 +7,7 @@
 ## Why Superlight
 
 - **Paper, not glare.** A warm off-white base (`#FFFCF0`) with near-black ink text keeps things crisp without the harshness of pure white.
-- **A proven palette.** Flexoki was designed for reading and writing: its inky blue, red, green and gold stay distinct and legible in the terminal, the editor and the bar.
+- **A proven palette, tuned for contrast.** Built on Flexoki, which was designed for reading and writing. The text colors use Flexoki's deeper 600 tones (yellow, green and cyan a touch deeper still), so every palette color reaches at least **4.6 : 1** against the background (WCAG AA asks for 4.5 : 1) and body text sits at **18.6 : 1**.
 - **A wallpaper that breathes.** The soft blue-to-peach gradient gives the desktop depth while staying quiet behind your windows.
 - **Clean gradients, made from scratch.** The wallpapers are generated procedurally in 3840×2400 by [`wallpaper/generate.sh`](wallpaper/generate.sh), with fine film grain as dithering, so the gradient shows no banding.
 - **Two wallpapers included.** The light daytime sky is the default; the deeper dusk version from Superdark is one `omarchy theme bg next` away.
